@@ -1,0 +1,12 @@
+[package]
+name = "server"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+leaprs = "0.1.2"
+throbber = "0.1"
+image = "0.24.7"
+tempfile = "3.8.1"
