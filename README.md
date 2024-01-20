@@ -1,4 +1,5 @@
-# 🧭 Compass: Utilities for using a northstar headset on the web! ( ⚠️ extremely WIP )
+# 🧭 Compass: Utilities for using a northstar headset on the web! 
+### ( ⚠️ extremely WIP )
 
 ## Purpose:
 
